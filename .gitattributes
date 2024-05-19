@@ -1,0 +1,6 @@
+* linguist-detectable=false
+/Makefile linguist-detectable=true
+/CMakeLists.txt linguist-detectable=true
+include/**/*.h linguist-detectable=true
+src/**/*.c linguist-detectable=true
+lib/**/*.dart linguist-detectable=true
